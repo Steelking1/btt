@@ -238,37 +238,37 @@ img, svg {
 .banner:nth-of-type(1) {
     background:
         -webkit-gradient(linear, left bottom, left top, from(rgba(68, 51, 51, 0.4)), color-stop(80%), to(rgb(110, 100, 100, .7))), 
-        center top / cover url("/Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
+        center top / cover url("Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
     background:
         -o-linear-gradient(bottom, rgba(68, 51, 51, 0.4), 80%, rgb(110, 100, 100, .7)), 
-        center top / cover url("/Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
+        center top / cover url("Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
     background:
         linear-gradient(to top, rgba(68, 51, 51, 0.4), 80%, rgb(110, 100, 100, .7)), 
-        center top / cover url("/Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
+        center top / cover url("Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
 }
 
 .banner:nth-of-type(2) {
     background: 
     -webkit-gradient(linear, right top, left top, from(rgba(68, 51, 51, 0.4)), color-stop(80%), to(rgb(110, 100, 100, .4))), 
-    center top / cover url("/Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
+    center top / cover url("Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
     background: 
     -o-linear-gradient(right, rgba(68, 51, 51, 0.4), 80%, rgb(110, 100, 100, .4)), 
-    center top / cover url("/Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
+    center top / cover url("Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
     background: 
     linear-gradient(to left, rgba(68, 51, 51, 0.4), 80%, rgb(110, 100, 100, .4)), 
-    center top / cover url("/Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
+    center top / cover url("Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
 }
 
 .banner:nth-of-type(3) {
     background: 
     -webkit-gradient(linear, left bottom, left top, from(rgba(68, 51, 51, 0.5)), color-stop(80%), to(rgb(110, 100, 100, .4))), 
-    center top / cover url("/Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");
+    center top / cover url("Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");
     background: 
     -o-linear-gradient(bottom, rgba(68, 51, 51, 0.5), 80%, rgb(110, 100, 100, .4)), 
-    center top / cover url("/Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");
+    center top / cover url("Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");
     background: 
     linear-gradient(to top, rgba(68, 51, 51, 0.5), 80%, rgb(110, 100, 100, .4)), 
-    center top / cover url("/Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");  
+    center top / cover url("Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");  
 }
 
 .swiper {
