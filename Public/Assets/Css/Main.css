@@ -238,37 +238,37 @@ img, svg {
 .banner:nth-of-type(1) {
     background:
         -webkit-gradient(linear, left bottom, left top, from(rgba(68, 51, 51, 0.4)), color-stop(80%), to(rgb(110, 100, 100, .7))), 
-        center top / cover url("Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
+        center top / cover url("../img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
     background:
         -o-linear-gradient(bottom, rgba(68, 51, 51, 0.4), 80%, rgb(110, 100, 100, .7)), 
-        center top / cover url("Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
+        center top / cover url("../img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
     background:
         linear-gradient(to top, rgba(68, 51, 51, 0.4), 80%, rgb(110, 100, 100, .7)), 
-        center top / cover url("Public/Assets/img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
+        center top / cover url("../img/tyler-franta-iusJ25iYu1c-unsplash.jpg");
 }
 
 .banner:nth-of-type(2) {
     background: 
     -webkit-gradient(linear, right top, left top, from(rgba(68, 51, 51, 0.4)), color-stop(80%), to(rgb(110, 100, 100, .4))), 
-    center top / cover url("Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
+    center top / cover url("../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
     background: 
     -o-linear-gradient(right, rgba(68, 51, 51, 0.4), 80%, rgb(110, 100, 100, .4)), 
-    center top / cover url("Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
+    center top / cover url("../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
     background: 
     linear-gradient(to left, rgba(68, 51, 51, 0.4), 80%, rgb(110, 100, 100, .4)), 
-    center top / cover url("Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
+    center top / cover url("../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg");
 }
 
 .banner:nth-of-type(3) {
     background: 
     -webkit-gradient(linear, left bottom, left top, from(rgba(68, 51, 51, 0.5)), color-stop(80%), to(rgb(110, 100, 100, .4))), 
-    center top / cover url("Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");
+    center top / cover url("../img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");
     background: 
     -o-linear-gradient(bottom, rgba(68, 51, 51, 0.5), 80%, rgb(110, 100, 100, .4)), 
-    center top / cover url("Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");
+    center top / cover url("../img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");
     background: 
     linear-gradient(to top, rgba(68, 51, 51, 0.5), 80%, rgb(110, 100, 100, .4)), 
-    center top / cover url("Public/Assets/img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");  
+    center top / cover url("../img/siim-lukka-S8E5a5ZlkNc-unsplash.jpg");  
 }
 
 .swiper {
@@ -345,16 +345,16 @@ img, svg {
     /* position/ size repeat url attachment */
     background: 
     -webkit-gradient(linear, left bottom, left top, from(rgba(178, 174, 174, 0.1)), color-stop(80%), to(rgba(77, 75, 75, 0.1))), 
-    top 15% right / 55% 40% no-repeat url('/Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
+    top 15% right / 55% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
     bottom 15% left / 50% 35% no-repeat url('/Public/Assets/img/banner1.jpg');
     background: 
     -o-linear-gradient(bottom, rgba(178, 174, 174, 0.1), 80%, rgba(77, 75, 75, 0.1)), 
-    top 15% right / 55% 40% no-repeat url('/Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
-    bottom 15% left / 50% 35% no-repeat url('/Public/Assets/img/banner1.jpg');
+    top 15% right / 55% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
+    bottom 15% left / 50% 35% no-repeat url('../img/banner1.jpg');
     background: 
     linear-gradient(to top, rgba(178, 174, 174, 0.1), 80%, rgba(77, 75, 75, 0.1)), 
-    top 15% right / 55% 40% no-repeat url('/Public/Assets/img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
-    bottom 15% left / 50% 35% no-repeat url('/Public/Assets/img/banner1.jpg');
+    top 15% right / 55% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
+    bottom 15% left / 50% 35% no-repeat url('../img/banner1.jpg');
 }
 
 .services .icon-box {
@@ -659,11 +659,11 @@ img, svg {
     min-height: 10em;
     z-index: 9999;
     background: -webkit-gradient(linear, left bottom, left top, from(rgba(68, 51, 51, 0.6)), color-stop(80%), to(rgb(110, 100, 100, .6))), 
-                center top / cover url("/Public/Assets/img/banner.jpg");
+                center top / cover url("../img/banner.jpg");
     background: -o-linear-gradient(bottom, rgba(68, 51, 51, 0.6), 80%, rgb(110, 100, 100, .6)), 
-                center top / cover url("/Public/Assets/img/banner.jpg");
+                center top / cover url("../img/banner.jpg");
     background: linear-gradient(to top, rgba(68, 51, 51, 0.6), 80%, rgb(110, 100, 100, .6)), 
-                center top / cover url("/Public/Assets/img/banner.jpg");
+                center top / cover url("../img/banner.jpg");
 }
 
 .footer .copyright {
