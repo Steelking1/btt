@@ -8,11 +8,11 @@ new backtoTop('active', 'back-to-top').go();
 const swiper = new Swiper('.swiper', {
     //direction: 'vertical',
     speed: 600,
-    // loop: true,
-    // autoplay: {
-    // delay: 4000,
-    // disableOnInteraction: true
-    // },
+    //loop: true,
+    autoplay: {
+    delay: 4000,
+    disableOnInteraction: true
+    },
 
     navigation: {
         nextEl: '.swiper-button-next',
@@ -30,12 +30,12 @@ const swiper = new Swiper('.swiper', {
 });
 
 const swiper_ = new Swiper('.ourteams', {
-    // speed: 600,
+    speed: 600,
     // loop: true,
-    // autoplay: {
-    //   delay: 6000,
-    //   disableOnInteraction: true
-    // },
+    autoplay: {
+    delay: 6000,
+    disableOnInteraction: true
+    },
     slidesPerView: 'auto',
     pagination: {
       el: '.swiper-pagination',
