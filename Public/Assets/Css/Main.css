@@ -345,16 +345,16 @@ img, svg {
     /* position/ size repeat url attachment */
     background: 
     -webkit-gradient(linear, left bottom, left top, from(rgba(178, 174, 174, 0.1)), color-stop(80%), to(rgba(77, 75, 75, 0.1))), 
-    top 15% right / 55% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
-    bottom 15% left / 50% 35% no-repeat url('/Public/Assets/img/banner1.jpg');
+    top 15% right / 65% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
+    bottom 15% left / 60% 35% no-repeat url('/Public/Assets/img/banner1.jpg');
     background: 
     -o-linear-gradient(bottom, rgba(178, 174, 174, 0.1), 80%, rgba(77, 75, 75, 0.1)), 
-    top 15% right / 55% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
-    bottom 15% left / 50% 35% no-repeat url('../img/banner1.jpg');
+    top 15% right / 65% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
+    bottom 15% left / 60% 35% no-repeat url('../img/banner1.jpg');
     background: 
     linear-gradient(to top, rgba(178, 174, 174, 0.1), 80%, rgba(77, 75, 75, 0.1)), 
-    top 15% right / 55% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
-    bottom 15% left / 50% 35% no-repeat url('../img/banner1.jpg');
+    top 15% right / 65% 40% no-repeat url('../img/brooke-lark-HjWzkqW1dgI-unsplash.jpg') ,
+    bottom 15% left / 60% 35% no-repeat url('../img/banner1.jpg');
 }
 
 .services .icon-box {
@@ -742,9 +742,9 @@ img, svg {
             flex-direction: row!important;
 }
 
-.justify-content-space-around {
+.justify-content-space-evenly {
     -ms-flex-pack: distribute!important;
-        justify-content: space-around!important;
+        justify-content: space-evenly!important;
 }
 
 @media (max-width: 1199px) {
@@ -863,26 +863,26 @@ img, svg {
 
 [class*='reveal-'] {
     -webkit-transition: .8s ease-in;
-    -o-transition: .8s ease-in;
-    transition: .8s ease-in;
+    -o-transition: .15s ease-in;
+    transition: .15s ease-in;
 }
 
 .reveal-loaded .reveal-2 {
-    -webkit-transition-delay: .10s;
-         -o-transition-delay: .10s;
-            transition-delay: .10s;
+    -webkit-transition-delay: .18s;
+         -o-transition-delay: .18s;
+            transition-delay: .18s;
 }
 
 .reveal-loaded .reveal-3 {
-    -webkit-transition-delay: .12s;
-         -o-transition-delay: .12s;
-            transition-delay: .12s;
+    -webkit-transition-delay: .20s;
+         -o-transition-delay: .20s;
+            transition-delay: .20s;
 }
 
 .reveal-loaded .reveal-4 {
-    -webkit-transition-delay: .14s;
-         -o-transition-delay: .14s;
-            transition-delay: .14s;
+    -webkit-transition-delay: .22s;
+         -o-transition-delay: .22s;
+            transition-delay: .22s;
 }
 
 /* Back to top button */
