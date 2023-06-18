@@ -87,6 +87,10 @@ img, svg {
     background: #b8944f;
 }
 
+.mobile_hidden {
+    display: none;
+}
+
 /* BARRE DE NAVIGATION */
 
 .scroll-down .navbar-nav {
@@ -773,6 +777,9 @@ img, svg {
     .container {
         max-width: 720px;
       }
+    .mobile_hidden {
+        display: initial;
+    }
 }
 
 @media screen and (min-width: 950px) {
